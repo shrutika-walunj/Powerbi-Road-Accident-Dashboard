@@ -19,6 +19,7 @@ This project analyzes road accident data using Power BI to identify patterns, tr
 
 
 ## 📷 Dashboard Preview
+![Uploading image.png…]()
 
 
 ## 🚀 Insights
